@@ -1,4 +1,4 @@
-## Project Description: Handwritten Digit Classification Using ANN
+##Handwritten Digit Classification Using ANN
 
 **Objective:** 
 This project aims to develop an Artificial Neural Network (ANN) to classify handwritten digits (0-9) using the MNIST dataset.
